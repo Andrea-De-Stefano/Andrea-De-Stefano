@@ -16,7 +16,7 @@ Location: São Paulo, Brasil · Experience: Fiz um trabalho voluntário com PCD'
 - ⟳ **Learning** · SQL, Python, Excel, Power BI
 
 ## Languages
-- 🇬🇧 **English** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
+- 🇬🇧 **English** · ![Fluent]
 
 ## GitHub Signals
 
