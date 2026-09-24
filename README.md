@@ -16,7 +16,7 @@ Location: São Paulo, Brasil · Experience: Fiz um trabalho voluntário com PCD'
 - ⟳ **Learning** · SQL, Python, Excel, Power BI
 
 ## Languages
-- 🇬🇧 **English** · ![Fluent]
+- 🇬🇧 **English**  - Fluent
 
 ## GitHub Signals
 
